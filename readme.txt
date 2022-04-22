@@ -1,2 +1,2 @@
-Git is amazing!
+Git is great!
 I love Git!
